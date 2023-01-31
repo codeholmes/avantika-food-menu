@@ -4,7 +4,7 @@ import Meal from '../components/Meal'
 import { useState } from 'react'
 import SpecialMealText from '../components/SpecialMealText'
 
-let menu = require('/Users/anysh/Computer Science/Project/menu-api/menu_test.json')
+let menu = require('public/menu_test.json')
 
 export default function Home() {
 	const availableDates = []
@@ -17,7 +17,7 @@ export default function Home() {
 	const offset = today.getTimezoneOffset()
 	today = new Date(today.getTime() - offset * 60 * 1000)
 	today = today.toISOString().split('T')[0]
-	
+
 	var today_idx = availableDates.indexOf(today)
 
 	const [selectedDate, setSelectedDate] = useState(availableDates[today_idx])

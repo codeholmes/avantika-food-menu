@@ -15,7 +15,7 @@ export default function Meal(props) {
 							<span>{props.mealType}</span>
 							<ChevronUpIcon
 								className={`${
-									open ? 'rotate-180 transform' : ''
+									!open ? 'rotate-180 transform' : ''
 								} h-5 w-5 text-purple-500`}
 							/>
 						</Disclosure.Button>

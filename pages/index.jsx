@@ -24,6 +24,7 @@ export default function Home() {
 	const onSelectDate = (date) => {
 		setSelectedDate(date)
 	}
+
 	return (
 		<div>
 			<Head>
@@ -33,7 +34,7 @@ export default function Home() {
 
 			<main>
 				<div className='grid cols-1 place-items-center'>
-					{availableDates.indexOf(today) ? (
+					{availableDates.indexOf(today) != -1 ? (
 						<div className='grid cols-1 place-items-center mt-12'>
 							<div className='text-6xl font-medium mb-4'>🍽</div>
 							<DateSelector onSelectDate={onSelectDate} />
@@ -76,7 +77,7 @@ export default function Home() {
 									/>
 								</div>
 							</div>
-							<div className='text-xs font-extralight text-center mt-4 mb-4 text-slate-400'>
+							<div className='text-xs font-extralight text-center mt-4 mb-12 text-slate-400'>
 								Developed by Anish P.
 							</div>
 						</div>

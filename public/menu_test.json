@@ -1,91 +1,15 @@
 {
-	"2023-01-30": {
-		"day": "Monday",
-		"breakfast": [
-			["Indian B/F(1)", "Misal Pav"],
-			["B/F (2)", "Veg Upma"],
-			["Cereal", "Plain Corn Flakes"],
-			["Drinks", "Chocolate Horlicks"],
-			["Milk", "Hot And Cold Milk"],
-			["Tea/Coffee", "Tea/Coffee"],
-			["Fruit", "Banana/Cut Fruit"]
-		],
-		"lunch": [
-			["Dry Veg", "Veg Jalfrazi"],
-			["Gravy Veg", "Cheese Kofta Curry"],
-			["Dal/Pulses", "Rajasthaani Dal"],
-			["Rice Prep.", "Plain Rice"],
-			["Indian Bread", "Phulka"],
-			["Salad", "Fresh Garden Salad"],
-			["Sweet/Fruits", "Coconut Barfi"],
-			["Other", "Pickle"]
-		],
-		"lunch_special": ["Nan"],
-		"snacks": [
-			["Snack", "Cheese Khari"],
-			["Beverage", "Tea"]
-		],
-		"dinner_special": ["Continental Menu"],
-		"dinner": [
-			["Gravy Veg", "Pasta Cheese Sauce"],
-			["Dry Veg", "Potato Wedges"],
-			["Dal/Pulses", "Tomato Soup"],
-			["Rice Prep.", "Garlic Chilli Rice"],
-			["Indian Bread", "Foccia Bread"],
-			["Salad", "Russian Salad"],
-			["Sweet/Fruits", "Hot Chocolate"],
-			["Other", "Dip"]
-		]
-	},
-	"2023-01-31": {
-		"day": "Tuesday",
-		"breakfast": [
-			["Indian B/F(1)", "Masala Uttpam/Sambar"],
-			["B/F (2)", "Bread Chivda"],
-			["Cereal", "All Bran"],
-			["Drinks", "Boost"],
-			["Milk", "Hot And Cold Milk"],
-			["Tea/Coffee", "Tea/Coffee"],
-			["Fruit", "Banana/Cut Fruit"]
-		],
-		"lunch": [
-			["Dry Veg", "Cabbage Mutter"],
-			["Gravy Veg", "Akhha Masoor Dry"],
-			["Dal/Pulses", "Yello Moong Dal"],
-			["Rice Prep.", "Brista Pulao"],
-			["Indian Bread", "Chapati"],
-			["Salad", "Stick  Salad"],
-			["Sweet/Fruits", "Malpua"],
-			["Other", "Pickle"]
-		],
-		"lunch_special": ["Nan"],
-		"snacks": [
-			["Snack", "Wada Pav"],
-			["Beverage", "Tea"]
-		],
-		"dinner_special": ["Nan"],
-		"dinner": [
-			["Gravy Veg", "Walpapdi Masala"],
-			["Dry Veg", "Watana Curry"],
-			["Dal/Pulses", "Dal Adraki"],
-			["Rice Prep.", "Steame Rice"],
-			["Indian Bread", "Chapati"],
-			["Salad", "Salad"],
-			["Sweet/Fruits", "Sabu Kheer"],
-			["Other", "Pickle"]
-		]
-	},
 	"2023-02-01": {
 		"day": "Wednesday",
 		"breakfast": [
 			["Indian B/F(1)", "Paneer Paratha"],
 			["B/F (2)", "Puff Riceupma"],
 			["Cereal", "Strawberry Flakes"],
-			["Drinks", "Plain Horliks"],
+			["Drinks", "Plain Horliks, Tea, Coffee"],
 			["Milk", "Hot And Cold Milk"],
-			["Tea/Coffee", "Tea/Coffee"],
 			["Fruit", "Banana/Cut Fruit"]
 		],
+		"lunch_special": ["Nan"],
 		"lunch": [
 			["Dry Veg", "Moong Dal Khichadi"],
 			["Gravy Veg", "Kadhi"],
@@ -96,7 +20,6 @@
 			["Sweet/Fruits", "Motichoor  Ladoo"],
 			["Other", "Pickle"]
 		],
-		"lunch_special": ["Nan"],
 		"snacks": [
 			["Snack", "Potato Chilli"],
 			["Beverage", "Tea"]
@@ -118,12 +41,12 @@
 		"breakfast": [
 			["Indian B/F(1)", "Sabudana Khichadi"],
 			["B/F (2)", "B/B/J"],
-			["Cereal", "Real Honey"],
-			["Drinks", "Bournvita"],
+			["Cereal", "Real Honey Cornflakes"],
+			["Drinks", "Bournvita, Tea, Coffee"],
 			["Milk", "Hot And Cold Milk"],
-			["Tea/Coffee", "Tea/Coffee"],
 			["Fruit", "Banana/Cut Fruit"]
 		],
+		"lunch_special": ["Nan"],
 		"lunch": [
 			["Dry Veg", "Tomato Chutney"],
 			["Gravy Veg", "Gobi Rassa"],
@@ -134,7 +57,6 @@
 			["Sweet/Fruits", "Mohanthal"],
 			["Other", "Pickle"]
 		],
-		"lunch_special": ["Nan"],
 		"snacks": [
 			["Snack", "Samosa/Imli Chutney"],
 			["Beverage", "Tea"]
@@ -156,23 +78,22 @@
 		"breakfast": [
 			["Indian B/F(1)", "Puri Bhaji"],
 			["B/F (2)", "Sevai Upma"],
-			["Cereal", "Plain Conrflakes"],
-			["Drinks", "Chocolate Horlicks"],
+			["Cereal", "Plain Cornflakes"],
+			["Drinks", "Chocolate Horlicks, Tea, Coffee"],
 			["Milk", "Hot And Cold Milk"],
-			["Tea/Coffee", "Tea/Coffee"],
 			["Fruit", "Banana/Cut Fruit"]
 		],
+		"lunch_special": ["Punjabi Special"],
 		"lunch": [
 			["Dry Veg", "Pindi Chole"],
 			["Gravy Veg", "Garlic Kulcha"],
 			["Dal/Pulses", "Dal Makhani"],
 			["Rice Prep.", "Jeera Rice"],
 			["Indian Bread", "Roast Moong Papad"],
-			["Salad", "Butter Milk"],
+			["Drinks", "Butter Milk"],
 			["Sweet/Fruits", "Kesari Phirni"],
 			["Other", "Pickle"]
 		],
-		"lunch_special": ["Punjabi Special"],
 		"snacks": [
 			["Snack", "Dahi Wada"],
 			["Beverage", "Tea"]
@@ -195,11 +116,11 @@
 			["Indian B/F(1)", "Idli /Sambar"],
 			["B/F (2)", "Besan Omlet"],
 			["Cereal", "Muesli"],
-			["Drinks", "Bournvita"],
+			["Drinks", "Bournvita, Tea, Coffee"],
 			["Milk", "Hot And Cold Milk"],
-			["Tea/Coffee", "Tea/Coffee"],
 			["Fruit", "Banana/Cut Fruit"]
 		],
+		"lunch_special": ["Nan"],
 		"lunch": [
 			["Dry Veg", "Kashmiri Dum Aloo"],
 			["Gravy Veg", "Rajma Rassila"],
@@ -210,7 +131,6 @@
 			["Sweet/Fruits", "Fruit Custard"],
 			["Other", "Pickle"]
 		],
-		"lunch_special": ["Nan"],
 		"snacks": [
 			["Snack", "Mix Bhajji /\nChutney"],
 			["Beverage", "Tea"]
@@ -233,11 +153,11 @@
 			["Indian B/F(1)", "Aloo Paratha"],
 			["B/F (2)", "B/B/J"],
 			["Cereal", "Chocos"],
-			["Drinks", "Chocolate Horlicks"],
+			["Drinks", "Chocolate Horlicks, Tea, Coffee"],
 			["Milk", "Hot And Cold Milk"],
-			["Tea/Coffee", "Tea/Coffee"],
 			["Fruit", "Banana/Cut Fruit"]
 		],
+		"lunch_special": ["Nan"],
 		"lunch": [
 			["Dry Veg", "Bhindi Do Pyasa"],
 			["Gravy Veg", "Matki Curry"],
@@ -248,14 +168,13 @@
 			["Sweet/Fruits", "Mihidana"],
 			["Other", "Pickle"]
 		],
-		"lunch_special": ["Nan"],
 		"snacks": [
 			["Snack", "Veg Cutlet"],
 			["Beverage", "Tea"]
 		],
 		"dinner_special": ["Nan"],
 		"dinner": [
-			["Gravy Veg", "Beans Foogath"],
+			["Gravy Veg", "Beans Foogat"],
 			["Dry Veg", "Kofta Curry"],
 			["Dal/Pulses", "Dal Coconut"],
 			["Rice Prep.", "Kashmiri Pulao"],
@@ -271,11 +190,11 @@
 			["Indian B/F(1)", "Batata Wada/Chutney"],
 			["B/F (2)", "Veg Upma"],
 			["Cereal", "All Bran Flakes"],
-			["Drinks", "Boost"],
+			["Drinks", "Boost, Tea, Coffee"],
 			["Milk", "Hot And Cold Milk"],
-			["Tea/Coffee", "Tea/Coffee"],
 			["Fruit", "Banana/Cut Fruit"]
 		],
+		"lunch_special": ["Nan"],
 		"lunch": [
 			["Dry Veg", "Sevga Peanut"],
 			["Gravy Veg", "Lasuni Pitla"],
@@ -286,14 +205,13 @@
 			["Sweet/Fruits", "Sooji Ka Halwa"],
 			["Other", "Pickle"]
 		],
-		"lunch_special": ["Nan"],
 		"snacks": [
 			["Snack", "Corn Chatpata"],
 			["Beverage", "Tea"]
 		],
 		"dinner_special": ["Chinese Special"],
 		"dinner": [
-			["Gravy Veg", "Eg Hongkong Noodle"],
+			["Gravy Veg", "Veg Hongkong Noodle"],
 			["Dry Veg", "Veg Fried Rice"],
 			["Dal/Pulses", "Dry Manchurian"],
 			["Rice Prep.", "Manchow Soup"],
@@ -309,11 +227,11 @@
 			["Indian B/F(1)", "Poha"],
 			["B/F (2)", "Jilebi"],
 			["Cereal", "Chocos"],
-			["Drinks", "Bournvita"],
+			["Drinks", "Bournvita, Tea, Coffee"],
 			["Milk", "Hot And Cold Milk"],
-			["Tea/Coffee", "Tea/Coffee"],
 			["Fruit", "Banana/Cut Fruit"]
 		],
+		"lunch_special": ["Nan"],
 		"lunch": [
 			["Dry Veg", "Dudhi Masala"],
 			["Gravy Veg", "Sev Tomato Rassa"],
@@ -324,7 +242,6 @@
 			["Sweet/Fruits", "Mohanthal"],
 			["Other", "Pickle"]
 		],
-		"lunch_special": ["Nan"],
 		"snacks": [
 			["Snack", "Jhalmuri"],
 			["Beverage", "Tea"]
@@ -347,22 +264,21 @@
 			["Indian B/F(1)", "Misal Pav"],
 			["B/F (2)", "Palak Thepla"],
 			["Cereal", "Plain Conrflakes"],
-			["Drinks", "Bournvita"],
+			["Drinks", "Bournvita, Tea, Coffee"],
 			["Milk", "Hot And Cold Milk"],
-			["Tea/Coffee", "Tea/Coffee"],
 			["Fruit", "Banana/Cut Fruit"]
 		],
+		"lunch_special": ["South Indian Special"],
 		"lunch": [
-			["Dry Veg", "Masala Uttapam"],
+			["Dry Veg", "Dosa Bhaji"],
 			["Gravy Veg", "Sambar"],
 			["Dal/Pulses", "Cabbage Poriyal"],
-			["Rice Prep.", "Dosa Bhaji"],
-			["Indian Bread", "Matta Rice"],
+			["Rice Prep.", "Matta Rice"],
+			["Uttapam", "Masala Uttapam"],
 			["Salad", "Salad"],
 			["Sweet/Fruits", "Sevai  Pysum"],
 			["Other", "Pickle"]
 		],
-		"lunch_special": ["South Indian Spl."],
 		"snacks": [
 			["Snack", "American Chopsy"],
 			["Beverage", "Tea"]
@@ -385,11 +301,11 @@
 			["Indian B/F(1)", "Sabudana Wada"],
 			["B/F (2)", "B/B/J"],
 			["Cereal", "Muesli"],
-			["Drinks", "Plain Horliks"],
+			["Drinks", "Plain Horliks, Tea, Coffee"],
 			["Milk", "Hot And Cold Milk"],
-			["Tea/Coffee", "Tea/Coffee"],
 			["Fruit", "Banana/Cut Fruit"]
 		],
+		"lunch_special": ["Nan"],
 		"lunch": [
 			["Dry Veg", "Mix Veg Dry"],
 			["Gravy Veg", "Methi Mutter Malai"],
@@ -400,7 +316,6 @@
 			["Sweet/Fruits", "Double Ka Meetha"],
 			["Other", "Pickle"]
 		],
-		"lunch_special": ["Nan"],
 		"snacks": [
 			["Snack", "Subway S/W"],
 			["Beverage", "Tea"]

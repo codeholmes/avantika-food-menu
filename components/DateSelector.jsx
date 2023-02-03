@@ -1,4 +1,4 @@
-import { Fragment, useState } from 'react'
+import { Fragment, useEffect, useState } from 'react'
 import { Listbox, Transition } from '@headlessui/react'
 import { CheckIcon, ChevronUpDownIcon } from '@heroicons/react/20/solid'
 
@@ -19,7 +19,7 @@ const DateSelector = ({ onSelectDate }) => {
 	const [selected, setSelected] = useState(availableDates[today_idx])
 
 	return (
-		<div className='w-72'>
+		<div className='w-72 lg:w-80'>
 			<Listbox
 				value={selected}
 				onChange={(date) => {
@@ -27,7 +27,7 @@ const DateSelector = ({ onSelectDate }) => {
 					onSelectDate(date)
 				}}>
 				<div className='relative mt-1'>
-					<Listbox.Button className='relative w-full rounded-lg bg-white py-2 pl-3 pr-10 text-left shadow-md focus:outline-none focus-visible:border-purple-500 focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75 focus-visible:ring-offset-2 focus-visible:ring-offset-purple-300 sm:text-sm cursor-pointer'>
+					<Listbox.Button className='relative w-full rounded-lg bg-white py-2 pl-3 pr-10 text-left shadow-md focus:outline-none focus-visible:border-purple-500 focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75 focus-visible:ring-offset-2 focus-visible:ring-offset-purple-300 text-sm cursor-pointer'>
 						<span className='block truncate'>{selected}</span>
 						<span className='pointer-events-none absolute inset-y-0 right-0 flex items-center pr-2'>
 							<ChevronUpDownIcon

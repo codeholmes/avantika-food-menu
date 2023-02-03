@@ -38,7 +38,7 @@ export default function Home() {
 						<div className='grid cols-1 place-items-center mt-12'>
 							<div className='text-6xl font-medium mb-4'>🍽</div>
 							<DateSelector onSelectDate={onSelectDate} />
-							<div className='w-80 px-4 pt-4'>
+							<div className='w-72 lg:w-80 pt-4'>
 								<div>
 									{menu[selectedDate].lunch_special !=
 									'Nan' ? (

@@ -11,6 +11,7 @@
 		],
 		"lunch_special": ["Nan"],
 		"lunch": [
+			["Veg-1", "Jeera Aloo"],
 			["Veg-2", "Akkha Masoor Masala"],
 			["Dal/Pulses", "Daal Adraki"],
 			["Rice Prep.", "Schezwan Rice"],
@@ -25,6 +26,7 @@
 		],
 		"dinner_special": ["Nan"],
 		"dinner": [
+			["Veg-1", "Paneer Lababdar"],
 			["Veg-2", "Cabbage Dry"],
 			["Dal/Pulses", "Daal Fry"],
 			["Rice Prep.", "Jeera Rice"],
@@ -46,6 +48,7 @@
 		],
 		"lunch_special": ["Nan"],
 		"lunch": [
+			["Veg-1", "Rajma Rasila"],
 			["Veg-2", "Veg Makkhan Wala"],
 			["Dal/Pulses", "Daal Triveni"],
 			["Rice Prep.", "Jeera Rice"],
@@ -60,6 +63,7 @@
 		],
 		"dinner_special": ["Nan"],
 		"dinner": [
+			["Veg-1", "Carrot Matar Masala"],
 			["Veg-2", "Kolhapuri Akkha Masoor"],
 			["Dal/Pulses", "Daal Coconut"],
 			["Rice Prep.", "Tadka Rice"],
@@ -74,13 +78,14 @@
 		"breakfast": [
 			["B/F-1", "Subway Sandwich"],
 			["B/F-2", "Mysore Bonda/Chutney"],
-			["Cereal", "Corn Flakes"],
+			["Cereal", "Corn Slakes"],
 			["Drinks", "Bournvita, Tea, Coffee"],
 			["Milk", "Hot And Cold Milk"],
 			["Fruit", "Banana /Cut Fruits"]
 		],
 		"lunch_special": ["Nan"],
 		"lunch": [
+			["Veg-1", "Aloo Gobi Dry"],
 			["Veg-2", "Save Tomato Rasa"],
 			["Dal/Pulses", "Daal Masala"],
 			["Rice Prep.", "Steam Rice"],
@@ -95,6 +100,7 @@
 		],
 		"dinner_special": ["Nan"],
 		"dinner": [
+			["Veg-1", "Veg Chettinad"],
 			["Veg-2", "White Vatana Curry"],
 			["Dal/Pulses", "Daal Coconut"],
 			["Rice Prep.", "Potato Garlic Rice"],
@@ -116,6 +122,7 @@
 		],
 		"lunch_special": ["Nan"],
 		"lunch": [
+			["Veg-1", "Veg Bhuna Masala"],
 			["Veg-2", "Chawli Curry"],
 			["Dal/Pulses", "Dal Bukhara"],
 			["Rice Prep.", "Coriander Rice"],
@@ -130,6 +137,7 @@
 		],
 		"dinner_special": ["Chaupati Menu"],
 		"dinner": [
+			["Veg-1", "Pani Puri"],
 			["Veg-2", "Ragada Petis"],
 			["Dal/Pulses", "Papdi Chat"],
 			["Rice Prep.", "Tava Pulao"],
@@ -151,6 +159,7 @@
 		],
 		"lunch_special": ["Nan"],
 		"lunch": [
+			["Veg-1", "Stuffed Capsicum"],
 			["Veg-2", "Chole Masala"],
 			["Dal/Pulses", "Daal Tomato"],
 			["Rice Prep.", "Mint Rice"],
@@ -165,6 +174,7 @@
 		],
 		"dinner_special": ["Nan"],
 		"dinner": [
+			["Veg-1", "Tadka Palak"],
 			["Veg-2", "Kathal Ki Sabji"],
 			["Dal/Pulses", "Dal Fry"],
 			["Rice Prep.", "Jeera Rice"],
@@ -186,6 +196,7 @@
 		],
 		"lunch_special": ["Nan"],
 		"lunch": [
+			["Veg-1", "Tomato Chutney"],
 			["Veg-2", "Aloo Baingan Ki Sabzi"],
 			["Dal/Pulses", "Dal Fry"],
 			["Rice Prep.", "Steam Rice"],
@@ -200,6 +211,7 @@
 		],
 		"dinner_special": ["Nan"],
 		"dinner": [
+			["Veg-1", "Veg Diwani Handi"],
 			["Veg-2", "Drum Stik Masala"],
 			["Dal/Pulses", "Daal Adraki"],
 			["Rice Prep.", "Steam Rice"],
@@ -221,6 +233,7 @@
 		],
 		"lunch_special": ["Nan"],
 		"lunch": [
+			["Veg-1", "Dum Aloo Kashmiri"],
 			["Veg-2", "Rajma Masala"],
 			["Dal/Pulses", "Daal Fry"],
 			["Rice Prep.", "Steam Rice"],
@@ -235,6 +248,7 @@
 		],
 		"dinner_special": ["Nan"],
 		"dinner": [
+			["Veg-1", "Bhindi Do Pyaza"],
 			["Veg-2", "Gatta Curry"],
 			["Dal/Pulses", "Dal Pancham"],
 			["Rice Prep.", "Veg Fried Rice"],
@@ -256,6 +270,7 @@
 		],
 		"lunch_special": ["Nan"],
 		"lunch": [
+			["Veg-1", "Dudhi Masala"],
 			["Veg-2", "Mataki Curry"],
 			["Dal/Pulses", "Daal Tadka"],
 			["Rice Prep.", "Masala Rice"],
@@ -270,6 +285,7 @@
 		],
 		"dinner_special": ["Pav Bhaji Special"],
 		"dinner": [
+			["Veg-1", "Pav Bhaji"],
 			["Veg-2", "Butter Pav"],
 			["Dal/Pulses", "Schezwan Fried Rice"],
 			["Rice Prep.", "Bundi Raita"],

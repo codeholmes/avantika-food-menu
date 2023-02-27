@@ -1,59 +1,170 @@
 {
-	"2023-02-16": {
-		"day": "Thursday",
+	"2023-02-27": {
+		"day": "Monday",
 		"breakfast": [
-			["B/F-1", "Sabudana Khichdi"],
-			["B/F-2", "B/B/J"],
-			["Cereal", "Real Honey"],
-			["Drinks", "Chocolate Horlicks, Tea, Coffee"],
+			["B/F-1", "Misal Pav"],
+			["B/F-2", "Sevai Upma"],
+			["Cereal", "Chocos"],
+			["Drinks", "Bournvita, Tea, Coffee"],
 			["Milk", "Hot And Cold Milk"],
-			["Fruit", "Banana /Cut Fruits"]
+			["Fruit", "Banana / Cut Fruits"]
 		],
 		"lunch_special": ["Nan"],
 		"lunch": [
-			["Veg-1", "Jeera Aloo"],
-			["Veg-2", "Akkha Masoor Masala"],
-			["Dal/Pulses", "Daal Adraki"],
-			["Rice Prep.", "Schezwan Rice"],
-			["Indian Bread", "Phulka"],
-			["Dessert/Fruits", "Fruit Custard"],
+			["Veg-1", "Veg Jaipuri"],
+			["Veg-2", "White Vatana Curry"],
+			["Dal/Pulses", "Dal Tomato"],
+			["Rice Prep.", "Steam Rice"],
+			["Indian Bread", "Missi Roti"],
+			["Dessert/Fruits", "Sweet Boondi"],
 			["Other", "Pickle"],
-			["Salad", "Greek Salad"]
+			["Salad", "Salad"]
 		],
 		"snacks": [
-			["Snack", "Dahi Vada"],
+			["Snack", "Poha"],
 			["Beverage", "Tea"]
 		],
 		"dinner_special": ["Nan"],
 		"dinner": [
-			["Veg-1", "Paneer Lababdar"],
-			["Veg-2", "Cabbage Dry"],
-			["Dal/Pulses", "Daal Fry"],
-			["Rice Prep.", "Jeera Rice"],
-			["Indian Bread", "Kulcha"],
-			["Dessert/Fruits", "Chocolate Ball"],
+			["Veg-1", "Jeera Aloo"],
+			["Veg-2", "Rajma Masala"],
+			["Dal/Pulses", "Daal Palak"],
+			["Rice Prep.", "Steam Rice"],
+			["Indian Bread", "Chapati"],
+			["Dessert/Fruits", "Besan Barri"],
 			["Other", "Pickle"],
-			["Salad", "Papad Salad"]
+			["Salad", "Green Salad"]
 		]
 	},
-	"2023-02-17": {
-		"day": "Friday",
+	"2023-02-28": {
+		"day": "Tuesday",
 		"breakfast": [
-			["B/F-1", "Puri Bhaji"],
-			["B/F-2", "Puffed Rice Upma"],
-			["Cereal", "All Bran"],
+			["B/F-1", "Batata Vada / Chutney"],
+			["B/F-2", "Bread Chivda"],
+			["Cereal", "Cornflakes"],
 			["Drinks", "Chocolate Horlicks, Tea, Coffee"],
 			["Milk", "Hot And Cold Milk"],
-			["Fruit", "Banana /Cut Fruits"]
+			["Fruit", "Banana / Cut Fruits"]
 		],
 		"lunch_special": ["Nan"],
 		"lunch": [
-			["Veg-1", "Rajma Rasila"],
-			["Veg-2", "Veg Makkhan Wala"],
-			["Dal/Pulses", "Daal Triveni"],
+			["Veg-1", "Cabbage Dry"],
+			["Veg-2", "Kofta Curry"],
+			["Dal/Pulses", "Daal Makhani"],
+			["Rice Prep.", "Coriander Rice"],
+			["Indian Bread", "Chapati"],
+			["Dessert/Fruits", "Shahi Tukra"],
+			["Other", "Pickle"],
+			["Salad", "Cucumber Tadka Salad"]
+		],
+		"snacks": [
+			["Snack", "Papdi Chaat"],
+			["Beverage", "Tea"]
+		],
+		"dinner_special": ["Nan"],
+		"dinner": [
+			["Veg-1", "Tomato Chutney"],
+			["Veg-2", "Matki Curry"],
+			["Dal/Pulses", "Daal Bukhara"],
+			["Rice Prep.", "Pulao"],
+			["Indian Bread", "Ajwain Roti"],
+			["Dessert/Fruits", "Rice Payas"],
+			["Other", "Pickle"],
+			["Salad", "Koshimbir"]
+		]
+	},
+	"2023-03-01": {
+		"day": "Wednesday",
+		"breakfast": [
+			["B/F-1", "Medu Wada / Sambar"],
+			["B/F-2", "Tomato Omelette"],
+			["Cereal", "Cornflakes"],
+			["Drinks", "Boost, Tea, Coffee"],
+			["Milk", "Hot And Cold Milk"],
+			["Fruit", "Banana / Cut Fruits"]
+		],
+		"lunch_special": ["Nan"],
+		"lunch": [
+			["Veg-1", "Bharli Vangi"],
+			["Veg-2", "Veg Crispy"],
+			["Dal/Pulses", "Dal Fry"],
+			["Rice Prep.", "Steam Rice"],
+			["Indian Bread", "Chapati"],
+			["Dessert/Fruits", "Double Ka Meetha"],
+			["Other", "Pickle"],
+			["Salad", "Fresh Garden Salad"]
+		],
+		"snacks": [
+			["Snack", "Maggi"],
+			["Beverage", "Tea"]
+		],
+		"dinner_special": ["Nan"],
+		"dinner": [
+			["Veg-1", "Mughlai Veg"],
+			["Veg-2", "Pindi Chole"],
+			["Dal/Pulses", "Daal Tadka"],
 			["Rice Prep.", "Jeera Rice"],
 			["Indian Bread", "Chapati"],
-			["Dessert/Fruits", "Diljani"],
+			["Dessert/Fruits", "Orange Cake"],
+			["Other", "Pickle"],
+			["Salad", "Greek Salad"]
+		]
+	},
+	"2023-03-02": {
+		"day": "Thursday",
+		"breakfast": [
+			["B/F-1", "Sabudana Khichdi"],
+			["B/F-2", "B/B/J"],
+			["Cereal", "Real Honey Flakes"],
+			["Drinks", "Bournvita, Tea, Coffee"],
+			["Milk", "Hot And Cold Milk"],
+			["Fruit", "Banana / Cut Fruits"]
+		],
+		"lunch_special": ["Nan"],
+		"lunch": [
+			["Veg-1", "Paneer Butter Masala"],
+			["Veg-2", "Gilki Sabji"],
+			["Dal/Pulses", "Daal Adraki"],
+			["Rice Prep.", "Jeera Rice"],
+			["Indian Bread", "Phulka"],
+			["Dessert/Fruits", "Gulab Jamun"],
+			["Other", "Pickle"],
+			["Salad", "Salad"]
+		],
+		"snacks": [
+			["Snack", "Samosa Chutney"],
+			["Beverage", "Tea"]
+		],
+		"dinner_special": ["Nan"],
+		"dinner": [
+			["Veg-1", "Doodhi Masala"],
+			["Veg-2", "Green Mung Curry"],
+			["Dal/Pulses", "Daal Fry"],
+			["Rice Prep.", "Steam Rice"],
+			["Indian Bread", "Phulka"],
+			["Dessert/Fruits", "Kashi Halwa"],
+			["Other", "Pickle"],
+			["Salad", "Papad"]
+		]
+	},
+	"2023-03-03": {
+		"day": "Friday",
+		"breakfast": [
+			["B/F-1", "Puri Bhaji"],
+			["B/F-2", "Oats Upma"],
+			["Cereal", "All Bran"],
+			["Drinks", "Chocolate Horlicks, Tea, Coffee"],
+			["Milk", "Hot And Cold Milk"],
+			["Fruit", "Banana / Cut Fruits"]
+		],
+		"lunch_special": ["Nan"],
+		"lunch": [
+			["Veg-1", "Carrot Mutter Masala"],
+			["Veg-2", "Mix Usal"],
+			["Dal/Pulses", "Daal Triveni"],
+			["Rice Prep.", "Masala Rice"],
+			["Indian Bread", "Chapati"],
+			["Dessert/Fruits", "Pineapple Sheera"],
 			["Other", "Pickle"],
 			["Salad", "Kakdi Tadka Salad"]
 		],
@@ -63,236 +174,235 @@
 		],
 		"dinner_special": ["Nan"],
 		"dinner": [
-			["Veg-1", "Carrot Matar Masala"],
+			["Veg-1", "Mushroom Masala"],
 			["Veg-2", "Kolhapuri Akkha Masoor"],
 			["Dal/Pulses", "Daal Coconut"],
-			["Rice Prep.", "Tadka Rice"],
-			["Indian Bread", "Missi Roti"],
-			["Dessert/Fruits", "Anguri Rabri"],
+			["Rice Prep.", "Steam Rice"],
+			["Indian Bread", "Palak Thepla"],
+			["Dessert/Fruits", "Angoori Rabdi"],
 			["Other", "Pickle"],
 			["Salad", "Green Salad"]
 		]
 	},
-	"2023-02-18": {
+	"2023-03-04": {
 		"day": "Saturday",
 		"breakfast": [
-			["B/F-1", "Subway Sandwich"],
-			["B/F-2", "Mysore Bonda/Chutney"],
-			["Cereal", "Corn Slakes"],
-			["Drinks", "Bournvita, Tea, Coffee"],
+			["B/F-1", "Bread Chivda"],
+			["B/F-2", "Mysore Bonda / Chutney"],
+			["Cereal", "Cornflakes"],
+			["Drinks", "Boost, Tea, Coffee"],
 			["Milk", "Hot And Cold Milk"],
-			["Fruit", "Banana /Cut Fruits"]
+			["Fruit", "Banana / Cut Fruits"]
 		],
 		"lunch_special": ["Nan"],
 		"lunch": [
-			["Veg-1", "Aloo Gobi Dry"],
-			["Veg-2", "Save Tomato Rasa"],
-			["Dal/Pulses", "Daal Masala"],
-			["Rice Prep.", "Steam Rice"],
-			["Indian Bread", "Chapati"],
-			["Dessert/Fruits", "Moong Dal Sheera"],
+			["Veg-1", "Rajma Rasila"],
+			["Veg-2", "Bhoona Veg"],
+			["Dal/Pulses", "Punjabi Kadhi"],
+			["Rice Prep.", "Chawal"],
+			["Indian Bread", "Tawa Paratha"],
+			["Dessert/Fruits", "Jalebi"],
 			["Other", "Pickle"],
-			["Salad", "Fresh Garden Salad"]
+			["Salad", "Lachha Salad"]
 		],
 		"snacks": [
 			["Snack", "Falafel"],
 			["Beverage", "Tea"]
 		],
-		"dinner_special": ["Nan"],
+		"dinner_special": ["Continental Menu"],
 		"dinner": [
-			["Veg-1", "Veg Chettinad"],
-			["Veg-2", "White Vatana Curry"],
-			["Dal/Pulses", "Daal Coconut"],
-			["Rice Prep.", "Potato Garlic Rice"],
-			["Indian Bread", "Chapati"],
-			["Dessert/Fruits", "Cinnamon Roll"],
-			["Other", "Pickle"],
-			["Salad", "Pasta Salad"]
+			["Pasta", "Pasta Arrabiata"],
+			["Bread", "Bread Stick"],
+			["Burger", "Veg Burger"],
+			["Rice Prep.", "Garlic Chilli Rice"],
+			["Plain", "Dal And Rice"],
+			["Soup", "Tomato Soup"],
+			["Dessert/Fruits", "Ice Cream"],
+			["Side Dish", "Coleslaw"]
 		]
 	},
-	"2023-02-19": {
+	"2023-03-05": {
 		"day": "Sunday",
 		"breakfast": [
 			["B/F-1", "Aloo Paratha"],
 			["B/F-2", "B/B/J"],
 			["Cereal", "Muesli"],
-			["Drinks", "Plain Horlicks, Tea, Coffee"],
+			["Drinks", "Bournvita, Tea, Coffee"],
 			["Milk", "Hot And Cold Milk"],
-			["Fruit", "Banana /Cut Fruits"]
+			["Fruit", "Banana / Cut Fruits"]
 		],
 		"lunch_special": ["Nan"],
 		"lunch": [
-			["Veg-1", "Veg Bhuna Masala"],
-			["Veg-2", "Chawli Curry"],
-			["Dal/Pulses", "Dal Bukhara"],
-			["Rice Prep.", "Coriander Rice"],
+			["Veg-1", "Veg Diwani Handi"],
+			["Veg-2", "Shahi Gatta Curry"],
+			["Dal/Pulses", "Rajasthani Daal Tadka"],
+			["Rice Prep.", "Jeera Rice"],
 			["Indian Bread", "Chapati"],
-			["Dessert/Fruits", "Dry Fruit Sheera"],
+			["Dessert/Fruits", "Chocolate Ball"],
 			["Other", "Pickle"],
-			["Salad", "Julian Salad"]
+			["Salad", "Kakdi  Salad"]
 		],
 		"snacks": [
-			["Snack", "Maggi"],
-			["Beverage", "Tea"]
-		],
-		"dinner_special": ["Chaupati Menu"],
-		"dinner": [
-			["Veg-1", "Pani Puri"],
-			["Veg-2", "Ragada Petis"],
-			["Dal/Pulses", "Papdi Chat"],
-			["Rice Prep.", "Tava Pulao"],
-			["Indian Bread", "Live Bhel"],
-			["Dessert/Fruits", "Raita"],
-			["Other", "Ice Cream"],
-			["Salad", "Dal And Rice"]
-		]
-	},
-	"2023-02-20": {
-		"day": "Monday",
-		"breakfast": [
-			["B/F-1", "Moong Daal Chilla"],
-			["B/F-2", "Kanchipuram Idli"],
-			["Cereal", "Chocos"],
-			["Drinks", "Boost, Tea, Coffee"],
-			["Milk", "Hot And Cold Milk"],
-			["Fruit", "Banana /Cut Fruits"]
-		],
-		"lunch_special": ["Nan"],
-		"lunch": [
-			["Veg-1", "Stuffed Capsicum"],
-			["Veg-2", "Chole Masala"],
-			["Dal/Pulses", "Daal Tomato"],
-			["Rice Prep.", "Mint Rice"],
-			["Indian Bread", "Tava Paratha"],
-			["Dessert/Fruits", "Jalebi"],
-			["Other", "Pickle"],
-			["Salad", "Radish Salad"]
-		],
-		"snacks": [
-			["Snack", "Vada Pav /Chutney"],
+			["Snack", "Paneer Chilli"],
 			["Beverage", "Tea"]
 		],
 		"dinner_special": ["Nan"],
 		"dinner": [
-			["Veg-1", "Tadka Palak"],
-			["Veg-2", "Kathal Ki Sabji"],
+			["Veg-1", "Veg Korma"],
+			["Veg-2", "Vatana Curry"],
+			["Dal/Pulses", "Yellow Dal Tadka"],
+			["Rice Prep.", "Mint Rice"],
+			["Indian Bread", "Chapati"],
+			["Dessert/Fruits", "Vanilla Chocolate Cake"],
+			["Other", "Pickle"],
+			["Salad", "Beetroot Salad"]
+		]
+	},
+	"2023-03-06": {
+		"day": "Monday",
+		"breakfast": [
+			["B/F-1", "Subway S/W"],
+			["B/F-2", "Upma"],
+			["Cereal", "Chocos"],
+			["Drinks", "Chocolate Horlicks, Tea, Coffee"],
+			["Milk", "Hot And Cold Milk"],
+			["Fruit", "Banana / Cut Fruits"]
+		],
+		"lunch_special": ["South Indian Spl"],
+		"lunch": [
+			["Spl-1", "Sambar"],
+			["Spl-2", "Matta Rice"],
+			["Spl-3", "Cabbage Thoran"],
+			["Spl-4", "Masala Wada"],
+			["Chutney", "Lal Chutney"],
+			["Dessert/Fruits", "Sevai Payasam"],
+			["Other", "Pickle"],
+			["Salad", "Salad"]
+		],
+		"snacks": [
+			["Snack", "Kothimbir Vadi"],
+			["Beverage", "Tea"]
+		],
+		"dinner_special": ["Nan"],
+		"dinner": [
+			["Veg-1", "Kurkuri Bhindi"],
+			["Veg-2", "Soya Masala"],
 			["Dal/Pulses", "Dal Fry"],
 			["Rice Prep.", "Jeera Rice"],
 			["Indian Bread", "Missi Roti"],
-			["Dessert/Fruits", "Double Ka Meetha"],
+			["Dessert/Fruits", "Fruit Trifle"],
 			["Other", "Pickle"],
 			["Salad", "Sprout Salad"]
 		]
 	},
-	"2023-02-21": {
+	"2023-03-07": {
 		"day": "Tuesday",
 		"breakfast": [
-			["B/F-1", "Sponge Dosa"],
-			["B/F-2", "Indauri Poha"],
-			["Cereal", "Strawbery Slakes"],
-			["Drinks", "Chocolate Horlicks, Tea, Coffee"],
+			["B/F-1", "Uttapam Sambar"],
+			["B/F-2", "Indori Poha"],
+			["Cereal", "Strawberry Flakes"],
+			["Drinks", "Boost, Tea, Coffee"],
 			["Milk", "Hot And Cold Milk"],
-			["Fruit", "Banana /Cut Fruits"]
+			["Fruit", "Banana / Cut Fruits"]
 		],
 		"lunch_special": ["Nan"],
 		"lunch": [
 			["Veg-1", "Tomato Chutney"],
-			["Veg-2", "Aloo Baingan Ki Sabzi"],
-			["Dal/Pulses", "Dal Fry"],
+			["Veg-2", "Shak Bhaji"],
+			["Dal/Pulses", "Tadka Varan"],
 			["Rice Prep.", "Steam Rice"],
-			["Indian Bread", "Missi Roti"],
-			["Dessert/Fruits", "Gulab Jamun"],
+			["Indian Bread", "Chapati"],
+			["Dessert/Fruits", "Kala Jamun"],
 			["Other", "Pickle"],
 			["Salad", "Roast Papad"]
 		],
 		"snacks": [
-			["Snack", "Chinese Samosa"],
+			["Snack", "Zalmuri"],
 			["Beverage", "Tea"]
 		],
-		"dinner_special": ["Nan"],
+		"dinner_special": ["Rajasthani Menu"],
 		"dinner": [
-			["Veg-1", "Veg Diwani Handi"],
-			["Veg-2", "Drum Stik Masala"],
-			["Dal/Pulses", "Daal Adraki"],
-			["Rice Prep.", "Steam Rice"],
-			["Indian Bread", "Chapati"],
-			["Dessert/Fruits", "Gajar Ki Halwa"],
-			["Other", "Pickle"],
-			["Salad", "Carrot Salat"]
+			["Spl-1", "Daal/Bati"],
+			["Spl-2", "Mirchi Pakoda"],
+			["Chutney", "Lasun Ki Chutney"],
+			["Rice Prep.", "Tawa Pulao"],
+			["Dessert/Fruits", "Churma Ladoo"],
+			["Drinks", "Chaass"],
+			["Salad", "Salad"]
 		]
 	},
-	"2023-02-22": {
+	"2023-03-08": {
 		"day": "Wednesday",
 		"breakfast": [
-			["B/F-1", "Mix Veg Paratha /Card"],
+			["B/F-1", "Misal Pav"],
 			["B/F-2", "Sevai Upma"],
-			["Cereal", "Real Honey"],
-			["Drinks", "Bournvita, Tea, Coffee"],
+			["Cereal", "Real Honey Flakes"],
+			["Drinks", "Chocolate Horlicks, Tea, Coffee"],
 			["Milk", "Hot And Cold Milk"],
-			["Fruit", "Banana /Cut Fruits"]
+			["Fruit", "Banana / Cut Fruits"]
 		],
 		"lunch_special": ["Nan"],
 		"lunch": [
-			["Veg-1", "Dum Aloo Kashmiri"],
-			["Veg-2", "Rajma Masala"],
-			["Dal/Pulses", "Daal Fry"],
+			["Veg-1", "Tandoori Aloo"],
+			["Veg-2", "Mix Sprout Curry"],
+			["Dal/Pulses", "Black Dal"],
 			["Rice Prep.", "Steam Rice"],
 			["Indian Bread", "Chapati"],
 			["Dessert/Fruits", "Mohanthal"],
-			["Other", "Pickle"],
+			["Other", "Thanddai"],
 			["Salad", "Mix Salad"]
 		],
 		"snacks": [
-			["Snack", "Kanda Bhaji"],
+			["Snack", "Fried Chilli Idli"],
 			["Beverage", "Tea"]
 		],
-		"dinner_special": ["Nan"],
+		"dinner_special": ["Lawn Dinner Special"],
 		"dinner": [
-			["Veg-1", "Bhindi Do Pyaza"],
-			["Veg-2", "Gatta Curry"],
-			["Dal/Pulses", "Dal Pancham"],
-			["Rice Prep.", "Veg Fried Rice"],
-			["Indian Bread", "Chapati"],
-			["Dessert/Fruits", "Sheera"],
-			["Other", "Pickle"],
-			["Salad", "Green Salad"]
+			["Veg-1", "N/A"],
+			["Veg-2", "N/A"],
+			["Dal/Pulses", "N/A"],
+			["Rice Prep.", "N/A"],
+			["Indian Bread", "N/A"],
+			["Dessert/Fruits", "N/A"],
+			["Other", "N/A"],
+			["Salad", "N/A"]
 		]
 	},
-	"2023-02-23": {
+	"2023-03-09": {
 		"day": "Thursday",
 		"breakfast": [
 			["B/F-1", "Sabudana Vada"],
 			["B/F-2", "B/B/J"],
-			["Cereal", "Strawberry Slakes"],
+			["Cereal", "Strawberry Flakes"],
 			["Drinks", "Boost, Tea, Coffee"],
 			["Milk", "Hot And Cold Milk"],
-			["Fruit", "Banana /Cut Fruits"]
+			["Fruit", "Banana / Cut Fruits"]
 		],
 		"lunch_special": ["Nan"],
 		"lunch": [
-			["Veg-1", "Dudhi Masala"],
-			["Veg-2", "Mataki Curry"],
+			["Veg-1", "Mix Veg Dry"],
+			["Veg-2", "Cheese Kofta Curry"],
 			["Dal/Pulses", "Daal Tadka"],
-			["Rice Prep.", "Masala Rice"],
+			["Rice Prep.", "Lemon Rice"],
 			["Indian Bread", "Chapati"],
-			["Dessert/Fruits", "Sirni"],
-			["Other", "Pickele"],
+			["Dessert/Fruits", "Firni"],
+			["Other", "Pickle"],
 			["Salad", "Salad"]
 		],
 		"snacks": [
-			["Snack", "Jhalmuri"],
+			["Snack", "Bhajiya Pav"],
 			["Beverage", "Tea"]
 		],
-		"dinner_special": ["Pav Bhaji Special"],
+		"dinner_special": ["Nan"],
 		"dinner": [
-			["Veg-1", "Pav Bhaji"],
-			["Veg-2", "Butter Pav"],
-			["Dal/Pulses", "Schezwan Fried Rice"],
+			["Veg-1", "Chole Masala"],
+			["Veg-2", "Puri"],
+			["Dal/Pulses", "Hyderabadi Dum Biryani"],
 			["Rice Prep.", "Bundi Raita"],
 			["Indian Bread", "Daal/Rice"],
-			["Dessert/Fruits", "Gulab Jamun"],
+			["Dessert/Fruits", "Sticky Toffee Pudding"],
 			["Other", "Pickle"],
-			["Salad", "Friends Papad"]
+			["Salad", "Cut Lemon & Onion"]
 		]
 	}
 }
